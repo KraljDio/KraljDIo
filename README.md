@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **nothing**
 
-- 😎 I’m currently learning **Data Structures and FireBase.**
+- 😎 I’m currently learning **Data Structures and FireBase**
 
 - 👯 I’m looking to collaborate on **Anything**
 
