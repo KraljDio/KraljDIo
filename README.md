@@ -1,4 +1,4 @@
-<a href="#"><img width="50%" height="auto" src="https://media.istockphoto.com/vectors/male-personage-concentrated-at-working-project-isolated-man-coding-vector-id1297174535?k=20&m=1297174535&s=612x612&w=0&h=Squv8qzzLX94ErAqLzeObsTRAFXSD-UPYLr4rIPzZhQ=" height="175px"/></a>
+<a href="#"><img image align="left" width="auto" height="auto" src="https://media.istockphoto.com/vectors/male-personage-concentrated-at-working-project-isolated-man-coding-vector-id1297174535?k=20&m=1297174535&s=612x612&w=0&h=Squv8qzzLX94ErAqLzeObsTRAFXSD-UPYLr4rIPzZhQ=" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dio</h1>
 <h3 align="center">I'm a Full Stack Developer from Croatia.</h3>
