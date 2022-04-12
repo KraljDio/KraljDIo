@@ -3,7 +3,6 @@
 <h3 align="center">I'm a Full Stack Developer from Croatia.</h3>
 
 <br>
-</br>
 
 <div align="center">
 <h2> 🙋‍♂️ About Me </h2>
