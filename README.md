@@ -61,7 +61,16 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://www.lua.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/46/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png"/> </a>    
 
-</p>
+## <p align="center">📊 My Github Stats </p>
+  <div align="center">
+  <a href="https://github.com/KraljDio/github-readme-stats"><img alt="Kralj Dio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KraljDio&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </div>
+  <br />
+  <div align="center">
+  <a href="https://github.com/KraljDio/github-readme-stats"><img alt="Kralj Dio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KraljDio&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </div>
+<br />
+
 
 <p align="center">
     <a href="https://github.com/KraljDio/github-readme-streak-stats">
@@ -69,35 +78,12 @@
     </a>
 </p>
 
-## <p align="center">📊 My Github Stats </p>
-  <div align="center">
-  <a href="https://github.com/KraljDio/github-readme-stats"><img alt="Kralj Dio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KraljDio&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  </div>
-  <br />
-  <div align="center">
-  <a href="https://github.com/KraljDio/github-readme-stats"><img alt="Kralj Dio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KraljDio&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  </div>
-<br />
+
+
 
 <h2 align="center"> 📊 Contributation Graph 📊</h2>
 <a href="https://github.com/KraljDio/github-readme-activity-graph"><img alt="Kralj Dio's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KraljDio&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-
-
-
-
-## <p align="center">📊 My Github Stats </p>
-  <div align="center">
-  <a href="https://github.com/KraljDio/github-readme-stats"><img alt="Kralj Dio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KraljDio&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  </div>
-  <br />
-  <div align="center">
-  <a href="https://github.com/KraljDio/github-readme-stats"><img alt="Kralj Dio's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KraljDio&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  </div>
-<br />
-
-<h2 align="center"> 📊 Contributation Graph 📊</h2>
-<a href="https://github.com/KraljDio/github-readme-activity-graph"><img alt="Kralj Dio's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KraljDio&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 
