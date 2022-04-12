@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dio</h1>
 <h3 align="center">I'm a Full Stack Developer from Croatia.</h3>
 
@@ -31,35 +30,6 @@
 </p>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dio</h1>
-<h3 align="center">I'm a Full Stack Developer from Croatia.</h3>
-
-<br>
-</br>
-
-<div align="center">
-<h2> 🙋‍♂️ About Me </h2>
-
-- 🔭 I’m currently working on **nothing**
-
-- 😎 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **Anything**
-
-</div>
-
-## <p align="center">🚀 Languages and Tools: </p>
-
-<p align="center"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://www.lua.org/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/46/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png"/> </a>    
 
 ## <p align="center">📊 My Github Stats </p>
   <div align="center">
@@ -83,7 +53,6 @@
 
 <h2 align="center"> 📊 Contributation Graph 📊</h2>
 <a href="https://github.com/KraljDio/github-readme-activity-graph"><img alt="Kralj Dio's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KraljDio&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 
 
 
