@@ -6,7 +6,7 @@
 <div align="center">
 <h2> 🙋‍♂️ About Me </h2>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **React Chat App**
 
 - 😎 I’m currently learning **FireBase**
 
